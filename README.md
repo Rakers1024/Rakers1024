@@ -31,3 +31,14 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight&hide=python,shell" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" />
+
+# linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+# mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+ 
+# 手机设备
+[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
+ 
+# 程序语言
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
