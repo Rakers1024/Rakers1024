@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight&hide=python,shell" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" />
 
