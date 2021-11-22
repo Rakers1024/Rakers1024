@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 吾辈是 Rakers1024（中文名是 **雷克斯**），喜欢科技前沿技术。
 
-### 关于
+### 关于 | About
 
 - **工作 :** Web 前端开发 & 技术研发
 - **学习 :** Full-Stack :zap: | Open-Source :fire:
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 时间线技术栈 | Tech Stack
+### 🛠 技术栈(学习时间线) | Tech Stack(Learning timeline)
 
 - 2021🚀 &#160;![Vite](https://img.shields.io/badge/2.0-Vite-333333?style=flat&logo=Vite)
 ![GOLand](https://img.shields.io/badge/-GOLand-333333?style=flat&logo=GOLand)
