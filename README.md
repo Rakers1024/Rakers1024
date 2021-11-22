@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 - 2017⚙️ &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 2016🌱 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 2016🌱 &#160;![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" />
