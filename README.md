@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![ElementPlus](https://img.shields.io/badge/-ElementPlus-333333?style=flat&logo=/e/)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![DockerCompose](https://img.shields.io/badge/-DockerCompose-333333?style=flat&logo=Docker)
+![Vuepress](https://img.shields.io/badge/-Vuepress-333333?style=flat&logo=vue.js)
 ![QuantumultX](https://img.shields.io/badge/-QuantumultX-333333?style=flat&logo=QuantumultX)
 ![Trajan](https://img.shields.io/badge/-Trajan-333333?style=flat&logo=Trajan)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
