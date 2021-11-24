@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx&logoColor=#009639)
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=IntelliJIDEA)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-333333?style=flat&logo=SpringSecurity)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
