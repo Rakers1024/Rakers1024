@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## :octocat: Github Metrics
+<img src="./github-metrics.svg" alt="Metrics" width="100%">
+
+---
 ## Rakers1024（雷克斯） 👨‍💻
 
 吾辈是 Rakers1024（中文名是 **雷克斯**），喜欢科技前沿技术。
@@ -162,7 +166,4 @@ Here are some ideas to get you started:
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" /> -->
 
----
 
-### :octocat: Github 指标 | Github Metrics
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
