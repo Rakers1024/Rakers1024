@@ -1,18 +1,6 @@
-<!-- ### Hi there 👋 -->
-
 <!--
-**Rakers1024/Rakers1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.https://simpleicons.org/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+emoji：https://emoji.muan.co/
+icon: https://simpleicons.org/
 -->
 
 ## :octocat: Github Metrics
@@ -30,6 +18,7 @@ Here are some ideas to get you started:
 - **兴趣 :** Books :books: 预备 Kiger 😄
 - **帮助 :** 如果遇到任何 `VUE/Jetbrains IDE/Windows 工具` 的问题可以问吾辈！:v:
 - **代称 :** Rakers/雷克斯 :innocent:
+- **博客 :** [https://rakers.top](https://rakers.top) 🔖
 
 ---
 
