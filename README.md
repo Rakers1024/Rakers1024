@@ -159,7 +159,10 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Handshake](https://img.shields.io/badge/-Handshake-333333?style=flat&logo=Handshake)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" /> -->
 
+---
+
+### :octocat: Github 指标 | Github Metrics
 <img src="./github-metrics.svg" alt="Metrics" width="100%">
