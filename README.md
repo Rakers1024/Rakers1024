@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 吾辈是 Rakers1024（中文名是 **雷克斯**），喜欢科技前沿技术。
 
-### 关于 | About
+### 😎 关于 | About
 
 - **工作 :** Web 前端开发 & 技术研发
 - **学习 :** Full-Stack :zap: | Open-Source :fire:
