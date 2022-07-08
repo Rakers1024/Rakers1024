@@ -3,7 +3,6 @@ emoji：https://emoji.muan.co/
 icon: https://simpleicons.org/
 -->
 
-## :octocat: Github Metrics
 <img src="./github-metrics.svg" alt="Metrics" width="100%">
 
 ---
