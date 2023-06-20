@@ -17,7 +17,7 @@ icon: https://simpleicons.org/
 - **兴趣 :** Books :books: 预备 Kiger 😄
 - **帮助 :** 如果遇到任何 `VUE/Jetbrains IDE/Windows 工具` 的问题可以问吾辈！:v:
 - **代称 :** Rakers/雷克斯 :innocent:
-- **博客 :** [https://rakers.top](https://rakers.top) 🔖
+- **博客 :** [https://www.chengzz.com](https://www.chengzz.com) 🔖
 
 ---
 
