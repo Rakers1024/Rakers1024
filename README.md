@@ -31,7 +31,10 @@ icon: https://simpleicons.org/
   ![i18next](https://img.shields.io/badge/-i18next-333333?style=flat&logo=i18next)
   ![Tailwindcss](https://img.shields.io/badge/3.0+-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
+  ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=AntDesign)
+  ![MonacoEditor](https://img.shields.io/badge/-MonacoEditor-333333?style=flat&logo=MonacoEditor)
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?style=flat&logo=ChatGPT)
+  ![GithubCopilotX](https://img.shields.io/badge/-GithubCopilotX-333333?style=flat&logo=GithubCopilotX)
 
 - 2022😄 &#160;![VScode](https://img.shields.io/badge/-VScode-333333?style=flat&logo=VisualStudioCode)
   ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier)
@@ -41,10 +44,12 @@ icon: https://simpleicons.org/
   ![LLVM](https://img.shields.io/badge/-LLVM-333333?style=flat&logo=LLVM)
   ![AppleObfuscatorLLVM](https://img.shields.io/badge/-AppleObfuscatorLLVM-333333?style=flat&logo=AppleObfuscatorLLVM)
   ![Rollup.js](https://img.shields.io/badge/-rollup.js-333333?style=flat&logo=rollup.js)
-  ![Copilot](https://img.shields.io/badge/-Copilot-333333?style=flat&logo=Copilot)
+  ![GithubCopilot](https://img.shields.io/badge/-GithubCopilot-333333?style=flat&logo=GithubCopilot)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
   ![GithubActions](https://img.shields.io/badge/-GithubActions-333333?style=flat&logo=githubactions)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Taro](https://img.shields.io/badge/-Taro-333333?style=flat&logo=Taro)
+  ![NutUI](https://img.shields.io/badge/-NutUI-333333?style=flat&logo=NutUI)
 
 - 2021🚀 &#160;![GOLand](https://img.shields.io/badge/-GOLand-333333?style=flat&logo=GOLand)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
@@ -77,7 +82,9 @@ icon: https://simpleicons.org/
   ![Pnpm](https://img.shields.io/badge/-Pnpm-333333?style=flat&logo=pnpm)
   ![Trojan](https://img.shields.io/badge/-Trojan-333333?style=flat&logo=trojan)
   ![Vitepress](https://img.shields.io/badge/0.2-Vitepress-333333?style=flat&logo=vitepress)
+  ![Plop](https://img.shields.io/badge/-Plop-333333?style=flat&logo=Plop)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![GIthubTrending](https://img.shields.io/badge/-GIthubTrending-333333?style=flat&logo=GIthubTrending)
 - 2020⚡️ &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2b%2b)
   ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=CMake)
   ![Upx](https://img.shields.io/badge/-Upx-333333?style=flat&logo=upx)
@@ -163,6 +170,8 @@ icon: https://simpleicons.org/
   ![Xposed](https://img.shields.io/badge/-Xposed-333333?style=flat&logo=Xposed)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![Handshake](https://img.shields.io/badge/-Handshake-333333?style=flat&logo=Handshake)
+
+> 只记录了我有实际接触使用的技能/框架。忽略小框架/小技能。
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakers1024&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakers1024&show_icons=true&theme=tokyonight&line_height=40&v=5" /> -->
