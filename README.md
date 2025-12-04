@@ -24,6 +24,19 @@ icon: https://simpleicons.org/
 
 ### 🛠 技术栈(学习时间线) | Tech Stack(Learning timeline)
 
+- 2025😈 &#160;![Turbo](https://img.shields.io/badge/-Turbo-333333?style=flat&logo=Turbo)
+  ![Turborepo](https://img.shields.io/badge/-Turborepo-333333?style=flat&logo=Turborepo)
+  ![BTC](https://img.shields.io/badge/-BTC-333333?style=flat&logo=BTC)
+  ![X](https://img.shields.io/badge/-X-333333?style=flat&logo=X)
+  ![Gemini](https://img.shields.io/badge/3.0-Gemini-333333?style=flat&logo=Gemini)
+  ![Hugo](https://img.shields.io/badge/-Hugo-333333?style=flat&logo=Hugo)
+
+- 2024🤖 &#160;![Gemini](https://img.shields.io/badge/2.5-Gemini-333333?style=flat&logo=Gemini)
+  ![Grok](https://img.shields.io/badge/-Grok-333333?style=flat&logo=Grok)
+  ![Claude](https://img.shields.io/badge/-Claude-333333?style=flat&logo=Claude)
+  ![Qwen](https://img.shields.io/badge/-Qwen-333333?style=flat&logo=Qwen)
+  ![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
+
 - 2023🐬 &#160;![Nuxt.js](https://img.shields.io/badge/3.0+-Nuxt.js-333333?style=flat&logo=nuxtdotjs)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![Next.js](https://img.shields.io/badge/13+-Next.js-333333?style=flat&logo=nextdotjs)
@@ -35,6 +48,8 @@ icon: https://simpleicons.org/
   ![MonacoEditor](https://img.shields.io/badge/-MonacoEditor-333333?style=flat&logo=MonacoEditor)
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?style=flat&logo=ChatGPT)
   ![GithubCopilotX](https://img.shields.io/badge/-GithubCopilotX-333333?style=flat&logo=GithubCopilotX)
+  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=Cursor)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 
 - 2022😄 &#160;![VScode](https://img.shields.io/badge/-VScode-333333?style=flat&logo=VisualStudioCode)
   ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier)
