@@ -24,6 +24,18 @@ icon: https://simpleicons.org/
 
 ### 🛠 技术栈(学习时间线) | Tech Stack(Learning timeline)
 
+- 2026🌟 &#160;![Codex](https://img.shields.io/badge/-Codex-333333?style=flat&logo=Codex)
+  ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=Claude)
+  ![Polymarket](https://img.shields.io/badge/-Polymarket-333333?style=flat&logo=Polymarket)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+  ![T3 Stack](https://img.shields.io/badge/-T3%20Stack-333333?style=flat&logo=TypeScript)
+  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
+  ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=flat&logo=Puppeteer)
+  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=Playwright)
+  ![AI Skills](https://img.shields.io/badge/-AI%20Skills-333333?style=flat&logo=AI)
+  ![AI MCP](https://img.shields.io/badge/-AI%20MCP-333333?style=flat&logo=MCP)
+  ![AI Agent](https://img.shields.io/badge/-AI%20Agent-333333?style=flat&logo=Agent)
+
 - 2025😈 &#160;![Turbo](https://img.shields.io/badge/-Turbo-333333?style=flat&logo=Turbo)
   ![Turborepo](https://img.shields.io/badge/-Turborepo-333333?style=flat&logo=Turborepo)
   ![Tsup](https://img.shields.io/badge/-Tsup-333333?style=flat&logo=Tsup)
